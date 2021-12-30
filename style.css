@@ -1,0 +1,16 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fff8f3;
+  text-align: center;
+}
+
+#Daftar {
+  background-color: #fff8f3;
+  padding-bottom: 6rem;
+}
+section {
+  padding-top: 7rem;
+}
